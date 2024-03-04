@@ -7,7 +7,7 @@ class PasswordRestrictions:
     def __init__(self):
         self.message = ''
         self._validators = [
-            Regexp(regex='.*[0-9].*', message='Password must contain digits'),
+            Regexp(regex='.*[0-9].*', message='Password must contain digit'),
             Regexp(regex='.*[a-zA-Z].*', message='Password must contain letter')
         ]
 
