@@ -1,7 +1,7 @@
 # Microblog
 
 ## Описание
-Немного обвешенная реализация проекта из курса [Мега-Учебник Flask](https://habr.com/ru/articles/346306/).
+Немного обвешенная реализация проекта из курса [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world).
 
 ## Что добавлено?
 * [Самописная валидация пароля](app/validators.py) 
